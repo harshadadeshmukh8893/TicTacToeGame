@@ -1,0 +1,15 @@
+D:\MonoDotNet03\SESSION29\TicTacToe2\TicTacToe2\bin\Debug\net6.0\TicTacToe2.exe
+D:\MonoDotNet03\SESSION29\TicTacToe2\TicTacToe2\bin\Debug\net6.0\TicTacToe2.deps.json
+D:\MonoDotNet03\SESSION29\TicTacToe2\TicTacToe2\bin\Debug\net6.0\TicTacToe2.runtimeconfig.json
+D:\MonoDotNet03\SESSION29\TicTacToe2\TicTacToe2\bin\Debug\net6.0\TicTacToe2.dll
+D:\MonoDotNet03\SESSION29\TicTacToe2\TicTacToe2\bin\Debug\net6.0\TicTacToe2.pdb
+D:\MonoDotNet03\SESSION29\TicTacToe2\TicTacToe2\obj\Debug\net6.0\TicTacToe2.csproj.AssemblyReference.cache
+D:\MonoDotNet03\SESSION29\TicTacToe2\TicTacToe2\obj\Debug\net6.0\TicTacToe2.GeneratedMSBuildEditorConfig.editorconfig
+D:\MonoDotNet03\SESSION29\TicTacToe2\TicTacToe2\obj\Debug\net6.0\TicTacToe2.AssemblyInfoInputs.cache
+D:\MonoDotNet03\SESSION29\TicTacToe2\TicTacToe2\obj\Debug\net6.0\TicTacToe2.AssemblyInfo.cs
+D:\MonoDotNet03\SESSION29\TicTacToe2\TicTacToe2\obj\Debug\net6.0\TicTacToe2.csproj.CoreCompileInputs.cache
+D:\MonoDotNet03\SESSION29\TicTacToe2\TicTacToe2\obj\Debug\net6.0\TicTacToe2.dll
+D:\MonoDotNet03\SESSION29\TicTacToe2\TicTacToe2\obj\Debug\net6.0\refint\TicTacToe2.dll
+D:\MonoDotNet03\SESSION29\TicTacToe2\TicTacToe2\obj\Debug\net6.0\TicTacToe2.pdb
+D:\MonoDotNet03\SESSION29\TicTacToe2\TicTacToe2\obj\Debug\net6.0\TicTacToe2.genruntimeconfig.cache
+D:\MonoDotNet03\SESSION29\TicTacToe2\TicTacToe2\obj\Debug\net6.0\ref\TicTacToe2.dll
